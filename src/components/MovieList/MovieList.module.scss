@@ -1,0 +1,11 @@
+.movieList__wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.movieList__item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-end;
+}

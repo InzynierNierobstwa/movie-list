@@ -1,0 +1,19 @@
+.navbar__wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 80px;
+  background-color: #428179;
+  -webkit-box-shadow: 3px 3px 3px lightgray;
+          box-shadow: 3px 3px 3px lightgray;
+}
+
+.navbar__logo {
+  margin-left: 20px;
+  font-size: 2em;
+  text-decoration: none;
+}
+/*# sourceMappingURL=Nav.module.css.map */

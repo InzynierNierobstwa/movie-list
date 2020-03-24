@@ -1,0 +1,13 @@
+.navbar__wrapper {
+  display: flex;
+  align-items: center;
+  height: 80px;
+  background-color: #428179;
+  box-shadow: 3px 3px 3px lightgray;
+}
+
+.navbar__logo {
+  margin-left: 20px;
+  font-size: 2em;
+  text-decoration: none;
+}
